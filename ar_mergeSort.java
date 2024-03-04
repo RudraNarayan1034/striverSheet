@@ -27,6 +27,7 @@ public class ar_mergeSort {
 
         while (left <= mid) {
             temp.add(arr[left]);
+            
             left++;
         }
 
